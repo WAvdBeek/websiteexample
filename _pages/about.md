@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+IoTivity is an open source framework that implements the OCF (Open Connectivity Foundation) protocol for easy, secure device-to-device communication for IoT devices.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Each day more and more devices are coming online, adding to the ever-growing Internet of Things (IoT). Analysts agree the IoT will grow to many billions of devices over the next decade.
+
+The challenge for the IoT ecosystem is to ensure these emerging IoT devices can connect securely and reliably to the Internet and to each other.
+
+The IoTivity project was created to bring together the open source community to accelerate the development of the framework and services required to connect these billions of devices.
+
+The IoTivity project is sponsored by the Open Connectivity Foundation (OCF), a group of industry leaders that have created a standard specification and certification program to address these challenges.
+
+IoTivity delivers an open source reference implementation of the OCF standard specifications.
