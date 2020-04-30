@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Introduction"
+    url: /mainpaige/
+  - title: "Architecture"
+    url: /architecture/
+  - title: "Getting Started"
+    url: /gsg-start/
+  - title: "posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
