@@ -15,7 +15,7 @@ This Getting Started guide will show you how to quickly download, build, and run
 The two apps talk to each other over Wi-Fi, using the OCF (Open Connectivity Foundation) protocol.
 
 
-![OCF protocol](/Images/communication-over-ocf-protocol.png)
+![OCF protocol](/assets/images/communication-over-ocf-protocol.png)
 
 
 ## Requirements
@@ -44,7 +44,7 @@ The first two listed items are sold together as a kit [here](https://openconnect
 1. *Before* connecting power, attach the Explorer HAT board to the GPIO header on the Raspberry Pi. Be careful not to bend the pins, as the connector fits very tightly. (For this example, you don’t need the blue breadboard, which may be attached later.)
 
 
-   ![OCF protocol](/Images/attach-HAT-plus-blue-board.png)
+   ![OCF protocol](/assets/images/attach-HAT-plus-blue-board.png)
 
 
 2.	Insert the micro SD card with an updated version of Raspian already installed into its slot, located under the Pi board.
@@ -76,7 +76,7 @@ The steps in this section use SSH to open a monitor on your personal computer th
    ```
 
 
-   ![ping Pi](/Images/ping-pi-local.png)
+   ![ping Pi](/assets/images/ping-pi-local.png)
 
 
    In the screen above, the IP address is 192.168.0.30.
@@ -111,7 +111,7 @@ The steps in this section use SSH to open a monitor on your personal computer th
    *password* **raspberry**
 
 
-   ![ssh prompt](/Images/ssh-prompt.png)
+   ![ssh prompt](/assets/images/ssh-prompt.png)
 
 ### Optionally Make Changes to Support Your Location and a Physical Keyboard and Monitor
 
