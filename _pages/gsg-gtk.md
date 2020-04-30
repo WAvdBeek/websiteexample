@@ -1,6 +1,5 @@
-![IoTivity logo](/Images/IoTivity-logo.png)
 
-[**Getting Started**](index.md)   |   [**Getting Started FAQ**](getting-started-faq.md)   |   [**Digging Deeper**](digging-deeper.md)   |   [**GitHub Repository**](https://github.com/iotivity/iotivity-lite)   |   [**IoTivity.org**](https://iotivity.org)
+[**Getting Started**](gsg-start.md)   |   [**Getting Started FAQ**](getting-started-faq.md)   |   [**Digging Deeper**](digging-deeper.md)   |  
 
 This guide will show you how to download, build, and run two simulated devices on the same Linux PC:
 
@@ -9,7 +8,7 @@ This guide will show you how to download, build, and run two simulated devices o
 
 The two apps talk to each other over a loopback connection, using the OCF protocol.
 
-![OCF protocol over loopback connection](/Images/ocfprotocol-loopback-connection.png)
+![OCF protocol over loopback connection](/assets/images/ocfprotocol-loopback-connection.png)
 
 **To use Windows:** To download, build, and run on a Windows PC instead, check the Iotivity [FAQ](https://wiki.iotivity.org/getting_started_troubleshooting_and_faq).
 
@@ -122,7 +121,7 @@ Leave the terminal window open. The server app is now waiting for commands from 
 
 ## Build and Run the Client App (If you've already installed OTGC once, you can skip the installation here and jump to step 3.)
 
-NOTE: The instructions below are for building and running the OTGC client application on Linux. Alternatively, you can run the Android version of OTGC on your smart phone or tablet. Get the installation package here: (https://github.com/openconnectivity/otgc-android). You can then just run it and skip the Linux OTGC installation in the steps below. If you run the Android app, you can basically follow the instructions is step % below. The circle icon will start the discovery process and should find the Emulator server.
+NOTE: The instructions below are for building and running the OTGC client application on Linux. Alternatively, you can run the Android version of OTGC on your smart phone or tablet. Get the installation package [here:](https://github.com/openconnectivity/otgc-android). You can then just run it and skip the Linux OTGC installation in the steps below. If you run the Android app, you can basically follow the instructions is step % below. The circle icon will start the discovery process and should find the Emulator server.
 
 The sample client application is called OTGC (Onboarding Tool and Generic Client). On Linux, you'll download and build the binary with a script:
 
