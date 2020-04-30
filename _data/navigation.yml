@@ -7,7 +7,7 @@ main:
     url: /gsg-start/
   - title: "Posts"
     url: /posts/
-  - title: "wiki"
+  - title: "Wiki"
     url: https://wiki.iotivity.org/
   - title: "About"
     url: /about/
