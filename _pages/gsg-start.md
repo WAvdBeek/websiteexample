@@ -1,10 +1,7 @@
-![IoTivity logo](/Images/IoTivity-logo.png)
-
-
-
-[**Getting Started**](index.md)   |   [**Getting Started FAQ**](getting-started-faq.md)   |   [**Digging Deeper**](digging-deeper.md)   |   [**GitHub Repository**](https://github.com/iotivity/iotivity-lite)   |   [**IoTivity.org**](https://iotivity.org)
-
-
+---
+title: "Getting Started"
+permalink: /gsg-start/
+---
 
 # Introduction
 
