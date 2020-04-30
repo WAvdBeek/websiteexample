@@ -1,17 +1,17 @@
 ---
-title: "architecture"
+title: "Architecture"
 permalink: /architecture/
 image: /assets/images/IoTivity-logo.png
 ---
 
 
 IoTivity-Lite is a lightweight implementation of the
-`Open Connectivity Foundation <https://openconnectivity.org/>`_ (OCF) standards
+[Open Connectivity Foundation](https://openconnectivity.org/) (OCF) standards
 for the Internet of Things (IoT).
 
 It was designed to build secure and interoperable IoT applications in full
 compliance with the
-`OCF specifications <https://openconnectivity.org/developer/specifications>`_
+[OCF specifications](https://openconnectivity.org/developer/specifications)
 with a limited footprint not exceeding the needs of the specifications. The
 stack architecture lends itself to be ported rapidly to any chosen hardware/OS
 environment.
