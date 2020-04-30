@@ -1,10 +1,11 @@
 ---
 title: "architecture"
 permalink: /architecture/
+image: /assets/images/IoTivity-logo.png
 ---
 
 
-IoTivity-Constrained is a lightweight implementation of the
+IoTivity-Lite is a lightweight implementation of the
 `Open Connectivity Foundation <https://openconnectivity.org/>`_ (OCF) standards
 for the Internet of Things (IoT).
 
@@ -15,9 +16,9 @@ with a limited footprint not exceeding the needs of the specifications. The
 stack architecture lends itself to be ported rapidly to any chosen hardware/OS
 environment.
 
-IoT applications may be built for a wide variety of rich and resource-constrained
+IoT applications may be built for a wide variety of rich and resource-Lite
 devices across the IoT landscape. As a general guideline, it should be feasible
-to deploy applications on class 2 constrained devices (>256KB Flash, >64KB RAM),
+to deploy applications on class 2 Lite devices (>256KB Flash, >64KB RAM),
 or better.
 
 The project is open-source, and its code is distributed under the
@@ -26,21 +27,19 @@ commercial-friendly Apache v2 license.
 Contents
 --------
 
-- `IoTivity-Constrained Architecture`_
+- `IoTivity-Lite Architecture`_
 - `Project directory structure`_
 - `Setup source tree`_
 - `Building sample applications on Linux`_
 - `Framework configuration`_
 
-IoTivity-Constrained Architecture
+IoTivity-Lite Architecture
 ---------------------------------
 
-.. image:: IoTivityConstrained-Arch.png
-   :scale: 100%
-   :alt: IoTivity-Constrained Architecture
-   :align: center
+![IoTivity logo](/assets/images/IoTivityLite-Arch.png)
 
-IoTivity-Constrained's design presents the following features:
+
+IoTivity-Lite's design presents the following features:
 
 - **OS agnostic core**: This cross-platform core (written in pure C)
   encompasses the APIs, OCF resource model, protocol, security features,
@@ -181,7 +180,7 @@ Building sample applications on Windows
 ---------------------------------------
 
 A Visual Studio project file can be found in
-``port/windows/vs2015/IoTivity-Constrained.sln``. Open the solution file in
+``port/windows/vs2015/IoTivity-Lite.sln``. Open the solution file in
 Visual Studio 2015 or newer. If the version of Visual Studio is newer a prompt
 should pop up asking if you would like to upgrade the visual studio project
 files. Agree to upgrade the files.
