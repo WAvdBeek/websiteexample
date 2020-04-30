@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /mainpage/
+title: "Introduction"
 ---
 
 IoTivity is an open source framework that implements the OCF (Open Connectivity Foundation) protocol for easy, secure device-to-device communication for IoT devices.

@@ -1,3 +1,7 @@
+---
+permalink: /gsg-faq/
+title: "Getting started Frequently Asked Questions"
+---
 [**Getting Started**](gsg-start.md)   |   [**Getting Started FAQ**](getting-started-faq.md)   |   [**Digging Deeper**](digging-deeper.md)   |  
 
 # Getting Started FAQ
