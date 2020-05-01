@@ -16,7 +16,7 @@ This guide will show you how to download, build, and run two simulated devices o
 
 The two apps talk to each other over a loopback connection, using the OCF protocol.
 
-![OCF protocol over loopback connection](/websiteexample/Images/ocfprotocol-loopback-connection.png)
+![OCF protocol over loopback connection]({{site.baseurl}}/assets/images/ocfprotocol-loopback-connection.png)
 
 **To use Windows:** To download, build, and run on a Windows PC instead, check the Iotivity [FAQ](https://wiki.iotivity.org/getting_started_troubleshooting_and_faq).
 
