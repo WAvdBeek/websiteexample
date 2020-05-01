@@ -16,7 +16,7 @@ This guide will show you how to download, build, and run two simulated devices o
 
 The two apps talk to each other over a loopback connection, using the OCF protocol.
 
-![OCF protocol over loopback connection](/Images/ocfprotocol-loopback-connection.png)
+![OCF protocol over loopback connection](/websiteexample/Images/ocfprotocol-loopback-connection.png)
 
 **To use Windows:** To download, build, and run on a Windows PC instead, check the Iotivity [FAQ](https://wiki.iotivity.org/getting_started_troubleshooting_and_faq).
 
@@ -84,11 +84,11 @@ The sample client application is called OTGC (Onboarding Tool and Generic Client
    /usr/bin/otgc.sh
    ```
 
-   ![/usr/bin/otgc.sh](/assets/images/usr-bin-otgc.sh.png)
+   ![/usr/bin/otgc.sh](/websiteexample/assets/images/usr-bin-otgc.sh.png)
 
 4. Click to OK to accept the End User License Agreement.
 
-   ![client application loads](/assets/images/client-application-loads.png)
+   ![client application loads](/websiteexample/assets/images/client-application-loads.png)
 
    OTGC starts and automatically scans all visible OCF (Open Connectivity Foundation) devices, listing them in the app's left-hand pane. In the screen above, the device found is called server_lite_3173.
 
@@ -98,7 +98,7 @@ The sample client application is called OTGC (Onboarding Tool and Generic Client
 
    - Click to select the device listed in the left-hand pane, and click the Onboard button.
 
-     ![select device and onboard](/assets/images/onboard-button.png)
+     ![select device and onboard](/websiteexample/assets/images/onboard-button.png)
 
      The Select OTM (Ownership Transfer Method) dialog box pops up. Any of the available security methods should work.
 
@@ -115,7 +115,7 @@ The sample client application is called OTGC (Onboarding Tool and Generic Client
 
    - Click to reselect the device in the left-hand pane. In the Generic Client tab, toggle the Value switch on and off. You should see the monitor window for the server device indicating true and false as you change the state of the switch.
 
-     ![toggle value switch](/assets/images/toggle-switch.png)
+     ![toggle value switch](/websiteexample/assets/images/toggle-switch.png)
 
 8. When you are done controlling the switch, click the offboard button to relinquish your ownership and return the security state to Ready For Onboarding Transfer Method (RFOTM)
 
